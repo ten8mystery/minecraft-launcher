@@ -317,50 +317,6 @@
         }
     },
     {
-        "name": "EaglerCraft (1.8)",
-        "icon": "https://tbapps.pages.dev/assets/eagler.png",
-        "description": "EarlerCraft (1.8.8)",
-        "authors": ["lax1dude"],
-        "pkg-name": "eagler-1.8",
-        "wmArgs": {
-            "title": {
-                "text": "EaglerCraft 1.8",
-                "weight": 600
-            },
-            "icon": "https://tbapps.pages.dev/assets/eagler.png",
-            "src": "https://eaglercraft.com/mc/1.8.8-wasm/",
-            "size": {
-                "width": 600,
-                "height": 400
-            },
-            "single": true,
-            "resizable": true,
-            "proxy": true
-        }
-    },
-    {
-        "name": "EaglerCraft (1.5)",
-        "icon": "https://tbapps.pages.dev/assets/eagler.png",
-        "description": "EaglerCraft (1.5.2)",
-        "authors": ["lax1dude"],
-        "pkg-name": "celeste-wasm",
-        "wmArgs": {
-            "title": {
-                "text": "Celeste Wasm",
-                "weight": 600
-            },
-            "icon": "https://tbapps.pages.dev/assets/eagler.png",
-            "src": "https://eaglercraft.com/mc/1.5.2/",
-            "size": {
-                "width": 600,
-                "height": 400
-            },
-            "single": true,
-            "resizable": true,
-            "proxy": true
-        }
-    },
-    {
         "name": "Jellyfin",
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hELYbRA5IB6-ci3AzpkvOTJ3BAq6-_LmMg&s",
         "description": "All of your media, in one convenient place.",
